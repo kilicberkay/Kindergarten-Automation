@@ -1,0 +1,57 @@
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.exe.config
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.exe
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.pdb
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.DersAta.resources
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.DersEkle.resources
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Login.resources
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.NotGir.resources
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.OgretmenForm.resources
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Properties.Resources.resources
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.exe
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.pdb
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.OgrenciForm.resources
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\QRCoder.dll
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.RaporAl.resources
+C:\Users\Admin\source\repos\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.CopyComplete
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.exe.config
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.exe
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.pdb
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\QRCoder.dll
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.DersAta.resources
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.DersEkle.resources
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Login.resources
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.NotGir.resources
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.OgrenciForm.resources
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.OgretmenForm.resources
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Properties.Resources.resources
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.RaporAl.resources
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.CopyComplete
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.exe
+C:\Users\Berkay\source\repos\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.pdb
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.exe.config
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.exe
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\OkulOtomasyonu.pdb
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\bin\Debug\QRCoder.dll
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.AssemblyReference.cache
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.SuggestedBindingRedirects.cache
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.DersAta.resources
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.DersEkle.resources
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Login.resources
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.NotGir.resources
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.OgrenciForm.resources
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.OgretmenForm.resources
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.Properties.Resources.resources
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.RaporAl.resources
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.GenerateResource.cache
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.CoreCompileInputs.cache
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.csproj.CopyComplete
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.exe
+D:\Berkay Yedek 10-05-2022\C# YEDEĞİM\OkulOtomasyonuSONNN\OkulOtomasyonu\OkulOtomasyonu\OkulOtomasyonu\obj\Debug\OkulOtomasyonu.pdb
