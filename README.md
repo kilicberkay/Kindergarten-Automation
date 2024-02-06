@@ -4,8 +4,6 @@
 #Denemek için Önemli Notlar
 - Visual Studio'dan App.config adlı dosyadan connectionStringe'e kendi SQL kullanıcı adı ve şifrenizi giriniz.
 - OkulOtomasyonDb.bak'i restore edip kendinize göre modifiye edebilirsiniz.
-- Login Form default olarak Öğrenci kullanıcı giriş 11 adet (2) - 22222222222 ve şifresi 123dür. 
-- Login Form default olarak Öğretmen kullanıcı giriş 11 adet (1) - 11111111111 ve şifresi 123dür. 
 
 
 
